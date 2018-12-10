@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": "https://github.com/layverns/lnpm-public.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  }
 }
